@@ -1,9 +1,7 @@
 ---
-title: Welkom
+title: 🏡 Home
 cssclasses:
-  - list-cards
-  - cards
-  - img-grid
+  - button
 description: dit beschrijft mijn post
 draft: false
 ---
@@ -12,10 +10,10 @@ draft: false
 
 Deze website wordt groot dus hier een aantal tips voor het navigeren ervan:
 
-- Klik op [[over |🙋🏿‍♂️over mij]] als je meer over mij wilt weten.
-- In [[Mijn Hobbies|000 Aanbevolen]] heb ik artikelen geselecteerd voor een soepele onboarding.
-- De zoekbalk werkt echt goed. Geloof me.
-- De grafiekweergave helpt je ook navigeren, zo blijf je binnen onderwerp of zie je welke onderwerpen aan elkaar knopen.
+1. Klik op [[over |🙋🏿‍♂️over mij]] als je meer over mij wilt weten.
+2. In [[Mijn Hobbies|000 Aanbevolen]] heb ik artikelen geselecteerd voor een soepele onboarding.
+3. De zoekbalk werkt echt goed. Geloof me.
+4. De grafiekweergave helpt je ook navigeren, zo blijf je binnen onderwerp of zie je welke onderwerpen aan elkaar knopen.
 
 > [!info] Werkzaam als Integratiespecialist bij het [Amsterdam UMC](https://amsterdamumc.org/nl/organisatie/missie-visie-en-strategie.htm)
 > Als integratiespecialist ben ik bezig met het ontwerpen, ontwikkelen, vernieuwen, realiseren, documenteren en onderhouden van koppelingen tussen ICT-applicaties.
@@ -33,19 +31,17 @@ Het #AmsterdamUMC streeft daarom ook naar een versimpeling van het IT landschap.
 Hieruit worden projecten geboren en mijn team is nauw betrokken bij deze projecten en verleend ondersteuning.
 
 De vruchten van ons werken:
-- Brengt het digitaal landschap(infrastructuur) in kaart. -> [[Actualiseren CMDB|Actualiseren CMDB]]
-- Maakt het verbinden van applicaties aan elkaar of #Epic mogelijk.
-- Houdt beheer overzichtelijk. 
+1. Brengt het digitaal landschap(infrastructuur) in kaart. -> [[Actualiseren CMDB|Actualiseren CMDB]]
+2. Maakt het verbinden van applicaties aan elkaar of #Epic mogelijk.
+3. Houdt beheer overzichtelijk. 
 
 Er zijn meer werkzaamheden die het leven van onze #klanten zoals het #EvA-servicecentrum simpeler maakt. Deze ontwikkelingen kan je volgen onder [[200 projecten]].
 
-> [!faq] Mijn socials
+> [!info] Mijn socials
 
-Op [bento](https://bento.me/randysemicolon) krijg je een mooie overzicht van mijn socials. 
+<button class="socials-button">Instagram</button> 
+<button class="socials-button">Github</button> 
+<button class="socials-button">LinkedIn</button>
+<button class="socials-button">YouTube</button> 
 
-> [!todo] test
-
-> [!tip] test
-
-> [!example] test
-
+> [!tip] Op [bento](https://bento.me/randysemicolon) krijg je een mooie overzicht van mijn socials. 
