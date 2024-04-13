@@ -4,7 +4,7 @@ import { BuildCtx } from "../util/ctx"
 
 export function getStaticResourcesFromPlugins(ctx: BuildCtx) {
   const staticResources: StaticResources = {
-    css: [],
+    css: [''],
     js: [],
   }
 
