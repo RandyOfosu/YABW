@@ -98,3 +98,5 @@ Maar is mijn antwoord hetzelfde op de vraagstelling of dit *ooit* mogelijk zou z
  **i** **d** **k** ¯\\\_(ツ)_/¯ 
 
 Misschien behaald AI pas een vrije wil na projecten die de mens combineert met het digitale, zoals Meta's Horizon Worlds of Elon Musk's Neuralink. Mede door het paplepelen van onze persoonsgegevens.
+
+miauw
