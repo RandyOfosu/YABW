@@ -18,8 +18,12 @@
 .socials-button:hover {
     background-color: var(--tertiary);
 }
-// .socials-image{
-//     width: 13px;
-//     height: 15px;
-//     text-align: left;
-// }
+.socials-icon {
+  flex-shrink:0;
+  width:1.3em;
+  height:1.3em;
+  margin-top:0;
+  margin-bottom:-.3em;
+  margin-right:.4em;
+  position:relative
+}

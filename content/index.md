@@ -1,47 +1,50 @@
 ---
-title: 🏡 Home
-cssclasses:
-  - button
-description: dit beschrijft mijn post
+title: 🧭 Hoe werkt deze website
+description: Hoe werkt deze website?
+aliases: 
+tags: 
 draft: false
+date: 2024-04-14
+---
+> [!tldr]- Wat doen al die hashtags?
+> tldr: Deze #tags zijn onderwerpen of keywords die ervoor zorgen dat je snel andere notities kan vinden.
+
+Graag wil ik je welkom heten op mijn blog. Deze hele website bestaat uit notities die ik maak in mijn notitieblok. Deze notities zijn aan elkaar gekoppeld net als hoe jij met jouw brein ook werkt met #connecties. 
+
+Een praktische voorbeeld is dat #melk -een connectie heeft met> #moeder, omdat we allemaal in het algemeen grootgebracht zijn met #moedermelk. Dus heeft dat weer een connectie met de #zorg die ieders moeder(figuur) uitdraagt om ons groot te brengen. 
+
+Etcetera, de connecties die wij maken hebben biologische gevolgen voor ons allen. Want hoe meer connecties ons brein heeft hoe groter de grijze massa. Deze worden dan weergegeven als constellaties in de #grafiekweergave .
+
+> *Dit is slechts poging tot een digitale manifestatie van mijn eigen grijze massa.*
+
 ---
 
-> [!faq] Over deze website
+> [!faq] Oké, maar hoe kan ik mij navigeren?
 
 Deze website wordt groot dus hier een aantal tips voor het navigeren ervan:
 
-1. Klik op [[over |🙋🏿‍♂️over mij]] als je meer over mij wilt weten.
-2. In [[Mijn Hobbies|000 Aanbevolen]] heb ik artikelen geselecteerd voor een soepele onboarding.
-3. De zoekbalk werkt echt goed. Geloof me.
-4. De grafiekweergave helpt je ook navigeren, zo blijf je binnen onderwerp of zie je welke onderwerpen aan elkaar knopen.
-
-> [!info] Werkzaam als Integratiespecialist bij het [Amsterdam UMC](https://amsterdamumc.org/nl/organisatie/missie-visie-en-strategie.htm)
-> Als integratiespecialist ben ik bezig met het ontwerpen, ontwikkelen, vernieuwen, realiseren, documenteren en onderhouden van koppelingen tussen ICT-applicaties.
-> 
-> Voor vragen kan je mij mailen op: randysemicolon@gmail.com
-
-![[cid23103_hoofdingangDEF_1200x628.jpg]]
-
-Een ziekenhuis is een gigantisch industrie terrein aan informatie dat correct opgeslagen en geactualiseerd moet worden. Dat gebeurt door talloze applicaties en deze applicaties moeten ook nog eens met elkaar kunnen communiceren. 
-
-Dat kan gauw complex worden. Beheer is hierom een aanzienlijk knelpunt voor ons.
-
-Het #AmsterdamUMC streeft daarom ook naar een versimpeling van het IT landschap. Dat willen we bereiken doormiddel van harmonisatie, transparantere documentatie en vernieuwing van werkwijze.
-
-Hieruit worden projecten geboren en mijn team is nauw betrokken bij deze projecten en verleend ondersteuning.
-
-De vruchten van ons werken:
-1. Brengt het digitaal landschap(infrastructuur) in kaart. -> [[Actualiseren CMDB|Actualiseren CMDB]]
-2. Maakt het verbinden van applicaties aan elkaar of #Epic mogelijk.
-3. Houdt beheer overzichtelijk. 
-
-Er zijn meer werkzaamheden die het leven van onze #klanten zoals het #EvA-servicecentrum simpeler maakt. Deze ontwikkelingen kan je volgen onder [[200 projecten]].
+1. Klik op [[home | 🏡Home]] als je wilt weten waar ik ***nu*** mee bezig ben.
+2. Klik op [[over |🙋🏿‍♂️over mij]] als je meer over mij wilt weten.
+3. In [[Mijn Hobbies|000 Aanbevolen]] heb ik artikelen geselecteerd voor een soepele onboarding.
+4. De #grafiekweergave helpt je ook navigeren, druk voor de gein op het icoontje rechtsbovenin.
+5. De zoekbalk werkt echt goed. Vooral voor mobiele gebruikers, geloof me.
+---
+> [!faq] Hoe kom ik het snelst met jou in contact?
+> Over het algemeen reageer ik best snel.
+> >Je krijgt mij het snelst te pakken op mijn emailadres: randysemicolon@gmail.com of <a href="https://linkedin.com/in/randyofosu" target="_blank">LinkedIn</a>. 
+---
 
 > [!info] Mijn socials
 
-<button class="socials-button">Instagram</button> 
-<button class="socials-button">Github</button> 
-<button class="socials-button">LinkedIn</button>
-<button class="socials-button">YouTube</button> 
+<a href="https://linkedin.com/in/randyofosu" target="_blank"><button class="socials-button"><img src="linkedin_icon.svg" class="socials-icon">LinkedIn</button></a>
+<a href="https://instagram.com/randysemicolon" target="_blank"><button class="socials-button"><img src="instagram_icon.svg" class="socials-icon">Instagram</button></a>
+<a href="https://github.com/randyofosu" target="_blank"><button class="socials-button"><img src="github_icon.svg" class="socials-icon">Github</button></a>
+<a href="https://youtube.com/@randysemicolon" target="_blank"><button class="socials-button"><img src="youtube_icon.svg" class="socials-icon">YouTube</button></a>
 
-> [!tip] Op [bento](https://bento.me/randysemicolon) krijg je een mooie overzicht van mijn socials. 
+> [!tip]- 
+> Op [bento](https://bento.me/randysemicolon) krijg je een mooi en transparantere overzicht van mijn socials. 
+
+---
+### Tot slot
+
+Veel browse plezier en wees niet verlegen.
