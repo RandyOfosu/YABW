@@ -11,9 +11,18 @@ date: 2024-04-14
 
 Graag wil ik je welkom heten op mijn blog. Deze hele website bestaat uit notities die ik maak in mijn notitieblok. Deze notities zijn aan elkaar gekoppeld net als hoe jij met jouw brein ook werkt met #connecties. 
 
-Een praktische voorbeeld is dat #melk -een connectie heeft met> #moeder, omdat we allemaal in het algemeen grootgebracht zijn met #moedermelk. Dus heeft dat weer een connectie met de #zorg die ieders moeder(figuur) uitdraagt om ons groot te brengen. 
+Een praktische voorbeeld is dat #melk een connectie heeft met #moeder, omdat we allemaal in het algemeen grootgebracht zijn met #moedermelk. Dus heeft dat weer een connectie met de #zorg die ieders moeder(figuur) uitdraagt om ons groot te brengen. 
 
-Etcetera, de connecties die wij maken hebben biologische gevolgen voor ons allen. Want hoe meer connecties ons brein heeft hoe groter de grijze massa. Deze worden dan weergegeven als constellaties in de #grafiekweergave .
+```mermaid
+mindmap
+        Melk
+            Moeder
+              Moedermelk
+              Zorg
+```
+
+
+Et cetera, de connecties die wij maken hebben biologische gevolgen voor ons allen. Want hoe meer (en sterker de) connecties ons brein heeft hoe groter de grijze massa. Deze worden dan weergegeven als constellaties in de #grafiekweergave .
 
 > *Dit is slechts poging tot een digitale manifestatie van mijn eigen grijze massa.*
 
