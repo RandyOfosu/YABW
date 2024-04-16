@@ -1,8 +1,7 @@
 ---
 title: 🙋🏿‍♂️ Over mij
 description: nieuwe post
-aliases:
-  - andere_naam_voor_post
+aliases: []
 tags:
   - brandnew-post
 draft: false
