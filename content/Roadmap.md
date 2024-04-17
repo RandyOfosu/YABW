@@ -11,29 +11,18 @@ date: 2024-04-14
 ---
 ### Website
 
-<<<<<<< HEAD
-| ideeën                              | oplossing                                   | status |
-| ----------------------------------- | ------------------------------------------- | ------ |
-| iconen voor de socials knop         | moet er een custom css-class voor maken     | ✅      |
-| testimonial pagina                  | senja.io koppelen en widget implementeren   | 🔁     |
-| tijdlijn implementatie              | moet mijn eigen tijdlijn in kaart brengen   | 🔁     |
-| graphview animatie                  | custom component moet aangemaakt worden     | 🔁     |
-| migratie bestaande content          | moet daarvoor mijn oudere content lezen     | 🔁     |
-| kleuren iconen in css-var stoppen   | in lightmode zijn de iconen slecht leesbaar | 🔁     |
-| wikipedia artikelen verwijzingen    | ?                                           | 🔁     |
-| Mijn logo bewerken en implementeren | Vraag Soap of ie zo lief is om dat te doen  | 🔁     |
-=======
 | ideeën                              | oplossing                                                                        | status |
 | ----------------------------------- | -------------------------------------------------------------------------------- | ------ |
 | iconen voor de socials knop         | moet er een custom css-class voor maken                                          | ✅      |
 | testimonial pagina                  | senja.io koppelen en widget implementeren                                        | 🔁     |
-| tijdlijn implementatie              | moet mijn eigen tijdlijn in kaart brengen                                        | 🔁     |
+| tijdlijn implementatie              | Gebruik mermaid om een Gantt Chart te maken                                      | 🔁     |
 | graphview animatie                  | custom component moet aangemaakt worden                                          | 🔁     |
 | migratie bestaande content          | moet daarvoor mijn oudere content lezen                                          | 🔁     |
 | kleuren iconen in css-var stoppen   | in lightmode zijn de iconen slecht leesbaar                                      | 🔁     |
 | wikipedia artikelen verwijzingen    | ?                                                                                | 🔁     |
 | mijn logo bewerken en implementeren | vraag Soap of ie zo lief is om dat te doen                                       | 🔁     |
 | links op een nieuwe tab openen      | in html gebruik je target="_blank" wordt even documentatie nalezen voor obsidian | 🔁     |
+
 
 ---
 ### Blogposts
@@ -47,7 +36,8 @@ date: 2024-04-14
 | Bowling Alone                  | 400  | 🔁     |
 | Maven Maker                    | 200  | 🔁     |
 | Webhook Noterik                | 200  | 🔁     |
->>>>>>> a58a4fd3 (roadmap toegevoegd)
+| r > g                          | 300  | 🔁     |
+
 ###### legenda:
 - 🔁 in progress
 - ❌ niet doorgegaan

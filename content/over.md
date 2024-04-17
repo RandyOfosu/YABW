@@ -1,13 +1,33 @@
 ---
 title: 🙋🏿‍♂️ Over mij
 description: nieuwe post
-aliases: []
+aliases: 
 tags:
-  - brandnew-post
+  - over-mij
+  - persoonlijkheidstest
 draft: false
 date: 2024-04-13
 ---
+> [!bible]- [Matthew 7:15-20 - NIV](https://bolls.life/NIV/40/7/)
+> 15. A Tree and Its Fruit<br/>“Watch out for false prophets. They come to you in sheep’s clothing, but inwardly they are ferocious wolves.
+> 16. By their fruit you will recognize them. Do people pick grapes from thornbushes, or figs from thistles?
+> 17. Likewise every good tree bears good fruit, but a bad tree bears bad fruit.
+> 18. A good tree cannot bear bad fruit, and a bad tree cannot bear good fruit.
+> 19. Every tree that does not bear good fruit is cut down and thrown into the fire.
+> 20. Thus, by their fruit you will recognize them.
 
-Hi mijn naam is Randy Ofosu. 
-Woonachtig in Amsterdam.
-Vind het leuk om te werken met technologie aan technologie.
+Wat ik probeer uit te lichten met deze verse is dat ik hier van alles kan lopen schrijven voor jou. Maar dat je me het beste leert kennen door mijn daden, connecties en keuzes.
+
+Als ik mezelf zou beschrijven in 5 woorden zou ik zeggen:
+1. Creatief.
+2. Denker.
+3. Doorzetter.
+4. Serieus.
+5. Amicaal (warm).
+
+Natuurlijk verschillen deze kwaliteiten net iets bij een ieder. Want het hangt ervan af wat iemand uit mij kan/wil halen. Maar dit is hoe ik mijzelf zou beschrijven als ik alleen met mijzelf zou zijn.
+
+>[!info] Persoonlijkheidstesten zijn veranderlijk.
+>Dit zijn de meest recente resultaten van een [persoonlijkheidstest](https://www.16personalities.com/nl) die ik heb gemaakt.
+
+![[persoonlijkheidstest.png]]
