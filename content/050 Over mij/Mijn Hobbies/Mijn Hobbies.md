@@ -17,6 +17,7 @@ In deze reeks content ondervind je al mijn ontdekkingen die ik heb gedaan door m
 > [!tldr] In het kort mijn hobbies.
 > 1. 🎼 Muziek, het maken van muziek via een #DAW en analoge instrumenten.
 > 2. 🏋🏾‍♂️ Gym, de sportschool geeft mij rust, discipline en doelen om naar te streven.
-> 3. 📚 Lezen, iemand die niet leest leeft slechts 1 leven. Doe je dat wel leef je talloze levens.
+> 3. 📚 Lezen, iemand die niet leest leeft 1 leven. Doe je dat wel leef je talloze levens.
 > 4. 🧳 Reizen, ik doe het niet vaak genoeg. Maar daar komt verandering in.
 > 5. 🎥 Film kijken, documentaires, indie films, blockbusters, noem maar op.
+> 6. ✍🏾 Schrijven, ik ben er echt van leren houden.

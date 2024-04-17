@@ -1,5 +1,5 @@
 ---
-title: Recreatieve Bucketlist 2024!
+title: Bucketlist 2024!
 description: beschrijving
 aliases: 
 tags: 
