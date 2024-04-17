@@ -7,7 +7,7 @@ tags:
 draft: false
 date: 2024-04-12
 ---
-> *Deze bolide wordt getankt door gezonde nieuwsgierigheid & de wil om erachter te komen wat er schuilt.*
+> *Deze bolide wordt getankt door gezonde nieuwsgierigheid & de wil om erachter te komen wat erachter schuilt.*
 
 > [!info] Ontdekkingsdrang
 > Iedereen heeft het, maar niet iedereen doet er wat mee. Waar ik het over heb is een ontdekkingsdrang, hier heb ik dus (gelukkig) erg last van. Dat manifesteert zich in verschillende maten en vaak probeer ik dat te kanaliseren tot iets materialistisch.
