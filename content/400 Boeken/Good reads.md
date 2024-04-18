@@ -37,8 +37,9 @@ Boeken uit mijn bibliotheek die mij goed hebben gedaan.
 
 Een lijst met interessante artikelen.
 
-| Naam                                                        | Auteur            | Synopsis |
-| ----------------------------------------------------------- | ----------------- | -------- |
-| [The Egg](https://www.galactanet.com/oneoff/theegg_nl.html) | Andy Weir         |          |
+| Naam                                                                    | Auteur    |
+| ----------------------------------------------------------------------- | --------- |
+| [The Egg](https://www.galactanet.com/oneoff/theegg_nl.html)             | Andy Weir |
+| [Locality of Behaviour](https://htmx.org/essays/locality-of-behaviour/) |           |
 
 
