@@ -7,23 +7,21 @@ cssclasses:
   - cards
   - list-cards
 ---
-Ik ben begonnen met bloggen omdat het de snelste en handigste manier is voor mij om mezelf te uiten. Zoals je weet is het gratis en houden wij Nederlanders van gratis. Tot slot is het herhalen van waardevolle advies en/of technieken het beste wat jij jezelf kan wensen.
+Ik ben begonnen met bloggen omdat het de snelste en handigste manier is voor mij om mezelf te uiten. Zoals je weet is het gratis (kan het gratis zijn) en houden wij Nederlanders van gratis. Tot slot is het herhalen van waardevolle advies en/of technieken het beste wat jij jezelf kan wensen.
 
-###### TL;DR
-
-- Je kan met een blog bewijzen wat je kan.
-- Een blog helpt je leren.
-- Je verleert het schrijven als je het niet vaak doet.
-- Je kan een community bouwen met een blog.
-- Mensen lezen graag van andere mensen.
+>[!tldr] tl;dr
+>- Je kan met een blog bewijzen wat je kan.
+>- Een blog helpt je leren.
+>- Je verleert het schrijven als je het consistent doet.
+>- Je kan een community bouwen met een blog.
+>- Mensen lezen graag van andere mensen.
 
 ## Wat is het nut van een blog?
-
 Dit zijn waardevolle woorden van mijn moeder. 
 
 > Nederland is een land gebouwd op papier.
 
-Zonder uitleg is dit makkelijk uit context te halen. Maar de les wat mijn Mama wil meegeven is dat "documentatie bijna niet te betwisten is." Geen bewijs, geen eis. Denk aan diploma's, portfolio's, curricula vitae, certificaten en dergelijke. Dit is onbetwistbaar bewijs van je prestaties en potentie. Er valt dan nog wel te discussiëren hoe waardevol elk document is, maar dat is dan ook een andere discussie. Het gaat erom dat dit _aantoonbaar_ is.
+Zonder uitleg is dit makkelijk uit context te halen. Maar de les wat mijn Mama wil meegeven is dat "documentatie bijna niet te betwisten is." Geen bewijs, geen eis. Denk aan diploma's, portfolio's, curricula vitae, certificaten en dergelijke. Dit is onbetwistbaar bewijs van je prestaties en potentie. Er valt dan nog wel te debatteren over hoe waardevol elk document is, maar dat is buiten de scope van deze post. Het gaat erom dat dit _aantoonbaar_ is.
 
 Stel je bent klaar met school en wilt aan de bak, wellicht wil je een bedrijf met allemaal klanten of stel je werkt al en wilt een hogere functie.
 **Hoe** ga jij bewijzen aan jouw (toekomstige) werkgever dat jij weet, wat je weet en dat jij kan, wat je kan.
@@ -31,7 +29,6 @@ Stel je bent klaar met school en wilt aan de bak, wellicht wil je een bedrijf me
 Een online document die jouw kunnen tentoonstelt kan hiervoor handig zijn. Je kan het helemaal aankleden zoals jij dat wilt. Dat kan je doen doormiddel van filmpjes, tekst of audio. Alle communicatieve media is gedekt. Het mooiste van een blog is dat het een interactief medium kan zijn. Dat scheelt jouw werkgever constant rondbellen naar referenties. Geloof mij, dat gaat die erg appreciëren.
 
 ## Het helpt bij jouw persoonlijke leerproces.
-
 Er is een blogpost van <a href="https://tomprof.stanford.edu/posting/1495#:~:text=Learning%20is%20a%20social%20process,see%20other%20people%20perform%20them." target="_blank" title="Stanford University Rick Reis: How do people learn?" alt="Rick Reis: How do people learn?">Stanford University</a> dat het volgende zegt over het leerproces van de mens.
 
 1. Leren is een sociale activiteit, dit kan direct of indirect met andere mensen.
@@ -62,17 +59,13 @@ Met een blog kan je een community bouwen. Dit onderwerp op zichzelf valt niet bu
 
 In een toekomstige blogpost zal ik het hebben over hoe je een sterke community kan bouwen, met behulp van het boek dat ik eerder heb genoemd. Voor nu wil ik alleen benoemen dat het mogelijk is.
 
-### Waarom zouden mensen een blog willen lezen?
+>[!faq] Waarom zouden mensen een blog willen lezen?
+>- Het is persoonlijker.
+>- Mensen hebben van aard een drang om te willen verbinden met elkaar.
+>- Mensen houden van **authenticiteit**.
+>- Mensen willen graag bijdragen aan de groei van iets waar ze persoonlijk mee zijn verwikkeld.
 
-Ik zal de volgende vragen in het kort beantwoorden met bulletpoints die niet anders te interpreteren zijn.
-
-- Het is persoonlijker.
-- Mensen hebben van aard een drang om te willen verbinden met elkaar.
-- Mensen houden van authenticiteit.
-- Mensen willen graag bijdragen aan de groei van iets waar ze persoonlijk mee zijn verwikkeld.
-
-### Is bloggen voor iedereen?
-
-- Het is een investering van tijd.
-- Het medium van het geschrift is niet voor iedereen.
-- Probeer het gewoon, wie weet?
+>[!faq]- Is bloggen voor iedereen?
+>- Het is een investering van tijd.
+>- Het medium van het geschrift is niet voor iedereen.
+>- Probeer het gewoon, wie weet?

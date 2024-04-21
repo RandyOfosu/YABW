@@ -1,8 +1,8 @@
 ---
-title: Wat zijn mijn principes
+title: Reisdoelen
 description: beschrijving
 aliases: 
 tags: 
-draft: false
+draft: true
 date: 2024-04-13
 ---

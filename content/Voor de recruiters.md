@@ -10,18 +10,20 @@ date: 2024-04-17
 ---
 # Wat zijn mijn carrière doelen in grote lijnen
 
-Mijn opleiding zat hem in het ontwikkelen van om applicaties. Dat deed ik op het MBO(-4), waarin we werden opgeleid om webapps te bouwen.
+De opleiding waar ik op zat leerde mij hoe je applicaties kon ontwikkelen. Dat deed ik op het MBO(-4), waarin we werden opgeleid om webapps te bouwen. Het was toen een nieuw curriculum dus was het echt substantieel. Waarschijnlijk om te meten wat echt scholieren aankonden toen.
 
 >[!tldr]- Denk dan aan alle omvattende zaken die je erbij leert:
->- Versiebeheer via git(hub)
->- Scripttaal zoals Python & PHP
+>- Versiebeheer via Git(hub)
+>- Scripttalen zoals Python & PHP
 >- HTML/CSS/Javascript
->- Frameworks: [Laravel](https://laravel.com/) 
->- Documentatie: Functioneel Ontwerp, Technisch Ontwerp, Programma van Eisen etc
->- Wireframing
+>- Databases: SQL, [XAMPP](https://www.apachefriends.org/)
+>- Frameworks: [Laravel](https://laravel.com/)
+>- Documentatie: Functioneel Ontwerp, Technisch Ontwerp, Programma van Eisen
+>- Wireframing: Balsamiq, [LucidChart](https://www.lucidchart.com/pages/nl)
 >- IDE's: VS code, IntelliJ
+>- Cybersecurity (Dit was mijn keuze vak toen): OWASP, Kali Linux, Wireshark, SQL Injectie
 
-Om mij zo breed mogelijk te oriënteren, deed ik ook een extra curriculaire project dat betrekking had tot technische automatisering. Dat ging via de Arduino (en diens IDE, uiteindelijk overgestapt op VS Code met Platform IO)
+Om mij zo breed mogelijk te oriënteren, deed ik ook een extra curriculaire project dat betrekking had tot technische automatisering. Dat ging via de Arduino en diens IDE (en taal, een soort C++), uiteindelijk overgestapt op VS Code met de Platform IO plugin.
 
 Echter zie ik mijzelf geen applicaties (from scratch) bouwen buiten mijn passie projecten. De reden hiervoor is dat ik voldoening haal uit het bezitten van wat ik heb gebouwd en daar ook volledige regie over wil behouden. 
 
@@ -32,13 +34,17 @@ Ik geloof dat er voor mij een lange adem zit in het beheren/bouwen van de connec
 >- Het bouwen/onderhouden van verschillende koppelingen voor het #AmsterdamUMC .
 >- Het integreren/onderhouden van docker applicaties in mijn NAS.
 
-Dus zijn functies zoals #software-consultant, #cloud-engineer, #applicatiebeheerder of #infrastructuur-specialist hierin passend voor mij.
+Dus als ik naar mezelf zou kijken geloof ik dat functies zoals hieronder genoemd een goede fit voor mij zouden zijn: 
+- #software-consultant
+- #cloud-engineer
+- #applicatiebeheerder
+- #infrastructuur-specialist
 
 ---
 # Wat voor werk doe ik nu en waarom
 
 > [!info]- Een korte retrospectief
-> Na een extensieve [[050 Over mij/Levenslessen/Je bent geen loser als je achter loopt|oriëntatieperiode]], heb ik besloten om ICT mijn vakgebied te maken. Hoe dat tot stand kwam is doordat ik ben opgegroeid in een tijd waar de digitale revolutie tot diens climax kwam op meerdere gebieden denk dan aan:
+> Na een extensieve [[content/300 Kennis/Levenslessen/Je bent geen loser als je achter loopt|oriëntatieperiode]], heb ik besloten om ICT mijn vakgebied te maken. Hoe dat tot stand kwam is doordat ik ben opgegroeid in een tijd waar de digitale revolutie tot diens climax kwam op meerdere gebieden denk dan aan:
 > - Gaming (software en hardware)
 > - Hardware (PC's, laptops, telefoons, TV's)
 > - Randapparatuur (afstandsbedieningen, lampen, printers, speakers)
@@ -47,7 +53,7 @@ Dus zijn functies zoals #software-consultant, #cloud-engineer, #applicatiebeheer
 > 
 > Dus toen ik erachter kwam dat men hiervan diens beroep kon maken besloot ik hier wat mee te doen.
 
-De hoofdreden voor mijn besluit om te werken bij het #AmsterdamUMC lag hem in de passie dat ik wat terug wil doen voor de organisatie. Zelf ben ik op jonge leeftijd gediagnosticeerd met sikkelcelanemie. 
+De hoofdreden voor mijn besluit om te werken bij het #AmsterdamUMC lag hem in de passie dat ik wat terug wil doen voor de organisatie. Zelf ben ik op jonge leeftijd gediagnosticeerd met sikkelcelanemie.
 
 Dit is ***de*** organisatie die heeft bijgedragen aan onderzoeken en ondersteuning voor mijn persoonlijke leertraject in het omgaan met deze aandoening.
 

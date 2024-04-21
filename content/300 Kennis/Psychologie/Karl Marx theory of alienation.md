@@ -1,5 +1,5 @@
 ---
-title: Alienation Theory
+title: Vervreemdingstheorie
 description: beschrijving
 aliases: 
 tags:

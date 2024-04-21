@@ -21,9 +21,30 @@ mindmap
 >[!info]- Simpele uitleg over hoe connecties werken.
 >Een praktische voorbeeld is dat #melk een connectie heeft met #moeder, omdat we allemaal in het algemeen grootgebracht zijn met #moedermelk. Dus heeft dat weer een connectie met de #zorg die ieders moeder(figuur) uitdraagt om ons groot te brengen. 
 
-Et cetera, de connecties die wij maken hebben biologische gevolgen voor ons allen. Want hoe meer (en sterker de) connecties ons brein heeft hoe groter de grijze massa. Deze worden dan weergegeven als constellaties in de #grafiekweergave .
+De connecties die wij maken hebben biologische gevolgen voor ons allen. Want hoe meer (en sterker de) connecties ons brein heeft hoe groter de grijze massa. Deze worden dan weergegeven als constellaties in de #grafiekweergave .
 
-> *Dit is slechts poging tot een digitale manifestatie van mijn eigen grijze massa.*
+> *Deze hele blog is slechts poging tot een digitale manifestatie van mijn eigen grijze massa.*
+
+```mermaid
+mindmap
+        root((melk))
+          Moeder
+            Zorg
+            Vader
+              Familie
+          Voedingsstof
+            Calcium
+            Eiwit
+              Eiwit shakes
+                  Gym
+                  Creatine
+                  Shake Beker
+          Wit
+            Kleurpotlood
+            Bruidsjurk
+
+```
+
 
 ---
 
@@ -55,4 +76,4 @@ Deze website wordt groot dus hier een aantal tips voor het navigeren ervan:
 ---
 ### Tot slot
 
-Veel browse plezier en wees niet verlegen.
+Veel browse plezier en wees niet verlegen.mindmap

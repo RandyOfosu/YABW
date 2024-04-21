@@ -3,7 +3,7 @@ title: Untitled
 description: beschrijving
 aliases: 
 tags: 
-draft: false
+draft: true
 date: 2024-04-13
 ---
 > [!bible]+ [Genesis 2:18-25 - NIV](https://bolls.life/NIV/1/2/)
@@ -15,7 +15,6 @@ date: 2024-04-13
 > 23. The man said,<br/>“This is now bone of my bones<br/>and flesh of my flesh;<br/>she shall be called ‘woman,’<br/>for she was taken out of man.”
 > 24. For this reason a man will leave his father and mother and be united to his wife, and they will become one flesh.
 > 25. The man and his wife were both naked, and they felt no shame.
-
 
 
 Haar enthousiasme is aanstekelijk

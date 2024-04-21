@@ -16,21 +16,25 @@ date: 2024-04-13
 > 19. Every tree that does not bear good fruit is cut down and thrown into the fire.
 > 20. Thus, by their fruit you will recognize them.
 
-Deze verse licht toe dat ik hier van alles kan lopen schrijven over mezelf. Maar dat je me het beste leert kennen door de sporen die ik achterlaat in mijn daden, connecties en keuzes.
+Deze verse licht toe dat ik hier van alles kan lopen schrijven over mezelf. Maar dat je me het beste leert kennen via de sporen die ik achterlaat in mijn daden, connecties en keuzes.
 
-Als ik mezelf zou beschrijven in 5 woorden zou ik zeggen:
+---
+
+Als ik mezelf zou beschrijven in 5 woorden:
 1. Creatief.
 2. Denker.
 3. Doorzetter.
 4. Doelgericht.
 5. Amicaal (warm).
 
-Wat anderen zeggen over mij dat ik:
-- Een sterke verbeeldingskracht heb.
-- Geruststellende aanwezigheid ben.
+Wat anderen zeggen over mij:
+- Heeft een sterke verbeeldingskracht.
+- Geruststellende aanwezigheid.
 - Behulpzaam en welwillend.
 - Een goede luisteraar.
 - Empathisch.
+
+---
 
 >[!info] Persoonlijkheidstesten zijn veranderlijk.
 >Dit zijn de meest recente resultaten van een [persoonlijkheidstest](https://www.16personalities.com/nl) die ik heb gemaakt.

@@ -1,12 +1,13 @@
 ---
-title: Bucketlist 2024!
+title: Recreatie doelen
 description: beschrijving
 aliases: 
 tags: 
 draft: false
 date: 2024-04-13
 ---
-Dingen die ik deze zomer wil doen!
+# 2024
+## Dingen die ik deze zomer wil doen!
 
 | Planning                  | activiteit        | datum        | status |
 | ------------------------- | ----------------- | ------------ | ------ |

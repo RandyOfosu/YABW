@@ -6,8 +6,7 @@ tags:
 draft: false
 date: 2024-04-17
 ---
-### Boeken
-
+# Boeken
 Boeken uit mijn bibliotheek die mij goed hebben gedaan.
 
 | Naam                                 | Auteur                                   | Synopsis |
@@ -31,16 +30,13 @@ Boeken uit mijn bibliotheek die mij goed hebben gedaan.
 | Outliers                             | Malcolm Gladwell                         |          |
 | Principles                           | Ray Dalio                                |          |
 |                                      |                                          |          |
+|                                      |                                          |          |
 
 ---
-
 ### Artikelen
-
 Een lijst met interessante artikelen.
 
 | Naam                                                                    | Auteur    |
 | ----------------------------------------------------------------------- | --------- |
 | [The Egg](https://www.galactanet.com/oneoff/theegg_nl.html)             | Andy Weir |
 | [Locality of Behaviour](https://htmx.org/essays/locality-of-behaviour/) |           |
-
-
