@@ -29,6 +29,7 @@ Boeken uit mijn bibliotheek die mij goed hebben gedaan.
 | Reality is Broken                    | Jane McGonigal                           |          |
 | Never Split the Difference           | Chris Voss                               |          |
 | Outliers                             | Malcolm Gladwell                         |          |
+| Principles                           | Ray Dalio                                |          |
 |                                      |                                          |          |
 
 ---

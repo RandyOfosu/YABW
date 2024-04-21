@@ -1,5 +1,5 @@
 ---
-title: 👨🏾‍🌾 Carrièrepad
+title: 🍯 Recruiters
 description: Handig voor recruiters en werkgevers.
 aliases: 
 tags:

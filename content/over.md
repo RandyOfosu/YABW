@@ -22,7 +22,7 @@ Als ik mezelf zou beschrijven in 5 woorden zou ik zeggen:
 1. Creatief.
 2. Denker.
 3. Doorzetter.
-4. Serieus.
+4. Doelgericht.
 5. Amicaal (warm).
 
 Wat anderen zeggen over mij dat ik:

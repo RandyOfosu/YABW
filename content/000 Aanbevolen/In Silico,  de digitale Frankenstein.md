@@ -13,7 +13,7 @@ De paradox van de zelf is het volgende:
 
 Volgens de Bhudda is de “ik” een leegte dat constant **tegelijk** geleegd en gevuld wordt met het algehele¹. Het algehele is in constante verandering.
 
-Hier komt het volgende argument uit voort: De “ik” is altijd slechts een momentopname van wat een individu kan waarnemen. Dus is de potentie oneindig net het universum maar wordt het gekaderd door wat je kan of wil opnemen van deze bron. Hierom is het ook absurd om jezelf vast te klampen aan een gekozen identiteit, omdat het net als het algehele vatbaar is voor de constante veranderingen.
+Hier komt het volgende argument uit voort: De “ik” is altijd slechts een momentopname van wat een individu kan waarnemen. Dus is de potentie oneindig net het universum maar wordt het gekaderd door wat je kan of wil opnemen van deze bron. Hierom is het ook absurd om jezelf vast te klampen aan een gekozen identiteit, mening, argument, observatie, etc, omdat het net als het algehele vatbaar is voor de constante veranderingen.
 
 <sub>Footnote¹: Als ik een woord gebruik zoals “de wereld”, “het universum”, “het heelal” zou dat beperkend werken omdat je het “alles” mentaal zou kaderen tot wat jij zou kunnen waarnemen als 1 van die woorden.</sub>
 # De parabel der blinden

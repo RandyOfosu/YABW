@@ -1,12 +1,11 @@
 ---
 title: 🏡 Home
-cssclasses:
-  - button
+cssclasses: []
 description: dit beschrijft mijn post
 draft: false
 ---
 > [!info] Werkzaam als Integratiespecialist bij het [Amsterdam UMC](https://amsterdamumc.org/nl/organisatie/missie-visie-en-strategie.htm)
-> Als integratiespecialist ben ik bezig met het ontwerpen, ontwikkelen, vernieuwen, realiseren, documenteren en onderhouden van koppelingen tussen ICT-applicaties.
+> Als integratiespecialist ben ik bezig met het ontwerpen, ontwikkelen, vernieuwen, realiseren, documenteren en onderhouden van koppelingen tussen ICT-applicaties en databases.
 > 
 > Voor vragen kan je mij mailen op: randysemicolon@gmail.com
 
