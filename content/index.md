@@ -6,10 +6,16 @@ tags:
 draft: false
 date: 2024-04-14
 ---
+
+<img src="loenik.jpg" style="width: 250px; border-radius: 40%; display: block; margin-left: auto; margin-right: auto;">
+
+Hi, mijn naam is Randy Ofosu.
+
+Graag wil ik je welkom heten op mijn blog. Deze hele website bestaat uit notities die ik maak in mijn notitieblok. Deze notities zijn aan elkaar gekoppeld net als hoe jij met jouw brein ook werkt met #connecties. 
+
 > [!tldr]- Wat doen al die hashtags?
 > tldr: Deze #tags zijn onderwerpen of keywords die ervoor zorgen dat je snel andere notities kan vinden.
 
-Graag wil ik je welkom heten op mijn blog. Deze hele website bestaat uit notities die ik maak in mijn notitieblok. Deze notities zijn aan elkaar gekoppeld net als hoe jij met jouw brein ook werkt met #connecties. 
 
 ```mermaid
 mindmap

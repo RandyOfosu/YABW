@@ -8,6 +8,9 @@ tags:
 draft: false
 date: 2024-04-13
 ---
+
+<img src="Me.jpg" style="width: 250px; border-radius: 5%; display: block; margin-left: auto; margin-right: auto;">
+
 > [!bible]- [Matthew 7:15-20 - NIV](https://bolls.life/NIV/40/7/)
 > 15. A Tree and Its Fruit<br/>“Watch out for false prophets. They come to you in sheep’s clothing, but inwardly they are ferocious wolves.
 > 16. By their fruit you will recognize them. Do people pick grapes from thornbushes, or figs from thistles?
