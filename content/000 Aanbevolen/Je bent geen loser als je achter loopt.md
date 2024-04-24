@@ -80,4 +80,4 @@ Maar zonder al die hoofdpijn, kon ik het jullie ook niet vertellen. Misschien zi
 
 Dus nee, ik heb geen spijt.
 
-![Mijn Diplomauitreiking](photo_2022-07-11_23-15-48.jpg)
+![Mijn Diploma-uitreiking](photo_2022-07-11_23-15-48.jpg)

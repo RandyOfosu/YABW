@@ -8,9 +8,16 @@ tags:
 draft: false
 date: 2024-04-17
 ---
-# Wat zijn mijn carrière doelen in grote lijnen
+<img src="northernstar.jpg" style="width: 60%; border-radius: 5%; display: block; margin-left: auto; margin-right: auto;">
 
-De opleiding waar ik op zat leerde mij hoe je applicaties kon ontwikkelen. Dat deed ik op het MBO(-4), waarin we werden opgeleid om webapps te bouwen. Het was toen een nieuw curriculum dus was het echt substantieel. Waarschijnlijk om te meten wat echt scholieren aankonden toen.
+>[!info]- Mijn Noord-ster is het zijn van een Software-ingenieur.
+>Dit is een **levenslange** opgave. Hierom is het imperatief dat ik mezelf niet kader tot één functie. Een software-ingenieur kan (bijvoorbeeld) een IT-consultant zijn maar niet andersom (met alle respect).
+>
+>Alhoewel ik geen universitaire studie heb genoten, wil ik doormiddel van rijke praktische ervaringen dichter tot dit punt komen. Niet in titel alleen, maar ook in daadkracht.
+>
+>Wat ik niet haal uit mijn werkervaring, haal ik uit mijn zelfstudie.
+# Wat zijn mijn carrière doelen in grote lijnen
+De opleiding waar ik op zat leerde mij hoe je applicaties kon ontwikkelen. Dat deed ik op het MBO(-4), waarin we werden opgeleid om webapps te bouwen. Het was toen een nieuw curriculum dus was het best substantieel. Waarschijnlijk om te meten wat het limiet was van scholieren toen.
 
 >[!tldr]- Denk dan aan alle omvattende zaken die je erbij leert:
 >- Versiebeheer via Git(hub)
@@ -23,14 +30,14 @@ De opleiding waar ik op zat leerde mij hoe je applicaties kon ontwikkelen. Dat d
 >- IDE's: VS code, IntelliJ
 >- Cybersecurity (Dit was mijn keuze vak toen): OWASP, Kali Linux, Wireshark, SQL Injectie
 
-Om mij zo breed mogelijk te oriënteren, deed ik ook een extra curriculaire project dat betrekking had tot technische automatisering. Dat ging via de Arduino en diens IDE (en taal, een soort C++), uiteindelijk overgestapt op VS Code met de Platform IO plugin.
+Om mij zo breed mogelijk te oriënteren, deed ik ook een extra curriculaire project dat betrekking had tot technische automatisering. Dat ging via de Arduino en diens IDE (en taal, een soort C++), uiteindelijk overgestapt op VS Code met de Platform-IO plugin.
 
 Echter zie ik mijzelf geen applicaties (from scratch) bouwen buiten mijn passie projecten. De reden hiervoor is dat ik voldoening haal uit het bezitten van wat ik heb gebouwd en daar ook volledige regie over wil behouden. 
 
 Ik geloof dat er voor mij een lange adem zit in het beheren/bouwen van de connecties tussen applicaties. Dan dat ik werk **aan** applicaties an sig.
 
 >[!info]- Uit praktische ervaring leerde ik voldoening te halen uit.
->- Het integreren van een webhook voor het CRM systeem van [qandr](https://www.qandr.eu/nl).
+>- Het integreren van een webhook voor het CRM-systeem van [qandr](https://www.qandr.eu/nl).
 >- Het bouwen/onderhouden van verschillende koppelingen voor het #AmsterdamUMC .
 >- Het integreren/onderhouden van docker applicaties in mijn NAS.
 
@@ -82,7 +89,6 @@ Dit is wat ik mee neem uit mijn werkervaring:
 
 ---
 # Hoe je het meest uit mij kan halen
-
 Hoe ik mijn carrière inbeeld is gebaseerd op:
 - Waar ik van nature goed in ben. -> 
 	- Het begrijpen, uitleggen en inzetten van mijn kennis op technisch gebied.
@@ -101,7 +107,6 @@ Hoe ik mijn carrière inbeeld is gebaseerd op:
 
 ---
 # Waar je als werkgever aan helpt bijdragen
-
 Het ideale scenario is dat mijn werkzaamheden:
 - Mij gezonde duurzame relaties helpt cultiveren.
 - Leermomenten biedt in vaardigheden die ik wil opbouwen.

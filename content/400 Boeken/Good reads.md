@@ -29,8 +29,6 @@ Boeken uit mijn bibliotheek die mij goed hebben gedaan.
 | Never Split the Difference           | Chris Voss                               |          |
 | Outliers                             | Malcolm Gladwell                         |          |
 | Principles                           | Ray Dalio                                |          |
-|                                      |                                          |          |
-|                                      |                                          |          |
 
 ---
 ### Artikelen
