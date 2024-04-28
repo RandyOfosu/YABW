@@ -11,11 +11,12 @@ date: 2024-04-14
 
 Hi, mijn naam is Randy Ofosu.
 
-Graag wil ik je welkom heten op mijn blog. Deze hele website bestaat uit notities die ik maak in mijn notitieblok. Deze notities zijn aan elkaar gekoppeld net als hoe jij met jouw brein ook werkt met #connecties. 
+Graag wil ik je welkom heten op mijn blog. Wat je hier vindt zijn dingen die mij ooit hebben geboeid. Hier vind je ook alle lessen die ik ooit heb opgedaan en (deels) heb uitgewerkt. Mijn interesses zijn breed, maar zijn vaak IT-gerelateerd. 
 
-> [!tldr]- Wat doen al die hashtags?
-> tldr: Deze #tags zijn onderwerpen of keywords die ervoor zorgen dat je snel andere notities kan vinden.
-
+---
+## Wat doen al die hashtags?
+Deze hele website bestaat uit notities die ik maak in mijn notitieblok. \
+Dit is allemaal mogelijk met een combinatie van html/css, Obsidian, Quartz (zelf gebruik ik versie 4.2.3) en een beetje liefde. Deze notities zijn aan elkaar gekoppeld net als hoe jij met jouw brein ook werkt met #connecties. 
 
 ```mermaid
 mindmap
@@ -27,7 +28,7 @@ mindmap
 >[!info]- Simpele uitleg over hoe connecties werken.
 >Een praktische voorbeeld is dat #melk een connectie heeft met #moeder, omdat we allemaal in het algemeen grootgebracht zijn met #moedermelk. Dus heeft dat weer een connectie met de #zorg die ieders moeder(figuur) uitdraagt om ons groot te brengen. 
 
-De connecties die wij maken hebben biologische gevolgen voor ons allen. Want hoe meer (en sterker de) connecties ons brein heeft hoe groter de grijze massa. Deze worden dan weergegeven als constellaties in de #grafiekweergave .
+De connecties die wij maken hebben biologische gevolgen. Want hoe meer (en sterker de) connecties ons brein heeft, hoe groter de grijze massa. Deze worden dan weergegeven als constellaties in de #grafiekweergave .
 
 > *Deze hele blog is slechts poging tot een digitale manifestatie van mijn eigen grijze massa.*
 
@@ -56,12 +57,12 @@ mindmap
 
 > [!faq] Oké, maar hoe kan ik mij navigeren?
 
-Deze website wordt groot dus hier een aantal tips voor het navigeren ervan:
+Deze website wordt ***groot*** dus hier een aantal tips voor het navigeren ervan:
 
 1. Klik op [[home |🏡Home]] als je wilt weten waar ik ***nu*** mee bezig ben.
 2. Klik op [[over |🙋🏿‍♂️Over mij]] als je meer over mij wilt weten.
-3. In [[Mijn Hobbies|000 Aanbevolen]] heb ik artikelen geselecteerd voor een soepele onboarding.
-4. De #grafiekweergave helpt je ook navigeren, druk voor de gein op het icoontje rechtsbovenin.
+3. Klik op deze [[/tags |🌌Root]] als je op de index van de website wil komen. 
+4. De #grafiekweergave helpt je ook navigeren.
 5. De zoekbalk werkt echt goed. Vooral voor mobiele gebruikers, geloof me.
 ---
 > [!faq] Hoe kom ik het snelst met jou in contact?

@@ -1,5 +1,5 @@
 ---
-title: Waarom targets niet werken
+title: Targets
 description: beschrijving
 aliases: 
 tags: 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 00 Introductie
+title: Waarom een blog?
 date: 2020-08-06 18:57:51
 cssclasses:
   - img-grid

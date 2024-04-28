@@ -14,3 +14,4 @@ date: 2024-04-17
 | [The Prime Time](https://www.youtube.com/@ThePrimeTimeagen) | [Falsehoods Jr Devs Believe Aboutr Sr Devs](https://youtu.be/Vo7KOqR27xE?si=SgRPSUI9K3ZTK_Zh)                             | geen.                                           |
 | [NeetCode](https://www.youtube.com/@NeetCode)               | geen.                                                                                                                     | [neetcode.io](https://neetcode.io/)             |
 | [Travis Media](https://www.youtube.com/@TravisMedia)        | [How To Become A DevOps Engineer in 2023](https://www.youtube.com/watch?v=IiuWlqabx9M)                                    | [travis.media](https://travis.media/)           |
+| [Design Theory](https://www.youtube.com/@Design.Theory)     | [Why Some Designs Are Impossible to Improve: Quintessence](https://www.youtube.com/watch?v=DEg5u1kyNEs)                   | [studioello.com](https://www.studioello.com)    |

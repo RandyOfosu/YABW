@@ -11,11 +11,12 @@ date: 2024-04-17
 <img src="northernstar.jpg" style="width: 60%; border-radius: 5%; display: block; margin-left: auto; margin-right: auto;">
 
 >[!info]- Mijn Noord-ster is het zijn van een Software-ingenieur.
->Dit is een **levenslange** opgave. Hierom is het imperatief dat ik mezelf niet kader tot één functie. Een software-ingenieur kan (bijvoorbeeld) een IT-consultant zijn maar niet andersom (met alle respect).
+>Dit is een **levenslange** opgave. Hierom is het imperatief dat ik mezelf niet kader tot één functie. Een software-ingenieur kan (bijvoorbeeld) een IT-consultant zijn maar niet andersom (met alle respect). Dikwijls kan ervaring als IT-consultant je opbouwen naar een competente software-ingenieur.
 >
 >Alhoewel ik geen universitaire studie heb genoten, wil ik doormiddel van rijke praktische ervaringen dichter tot dit punt komen. Niet in titel alleen, maar ook in daadkracht.
 >
->Wat ik niet haal uit mijn werkervaring, haal ik uit mijn zelfstudie.
+>Wat ik niet haal uit mijn werkervaring, haal ik uit mijn zelfstudie. \
+>Wat ik niet haal uit zelfstudie, haal ik uit het leven.
 # Wat zijn mijn carrière doelen in grote lijnen
 De opleiding waar ik op zat leerde mij hoe je applicaties kon ontwikkelen. Dat deed ik op het MBO(-4), waarin we werden opgeleid om webapps te bouwen. Het was toen een nieuw curriculum dus was het best substantieel. Waarschijnlijk om te meten wat het limiet was van scholieren toen.
 
@@ -51,7 +52,7 @@ Dus als ik naar mezelf zou kijken geloof ik dat functies zoals hieronder genoemd
 # Wat voor werk doe ik nu en waarom
 
 > [!info]- Een korte retrospectief
-> Na een extensieve [[content/300 Kennis/Levenslessen/Je bent geen loser als je achter loopt|oriëntatieperiode]], heb ik besloten om ICT mijn vakgebied te maken. Hoe dat tot stand kwam is doordat ik ben opgegroeid in een tijd waar de digitale revolutie tot diens climax kwam op meerdere gebieden denk dan aan:
+> Na een extensieve [[300 Kennis/Levenslessen/Je bent geen loser als je achter loopt|oriëntatieperiode]], heb ik besloten om ICT mijn vakgebied te maken. Hoe dat tot stand kwam is doordat ik ben opgegroeid in een tijd waar de digitale revolutie tot diens climax kwam op meerdere gebieden denk dan aan:
 > - Gaming (software en hardware)
 > - Hardware (PC's, laptops, telefoons, TV's)
 > - Randapparatuur (afstandsbedieningen, lampen, printers, speakers)

@@ -27,18 +27,20 @@ date: 2024-04-14
 ---
 ### Blogposts
 
-| onderwerpen                    | code | status |
-| ------------------------------ | ---- | ------ |
-| Het Lindy effect               | 400  | 🔁     |
-| Neuroplasticiteit en gamen     | 300  | 🔁     |
-| Waarom bouwde Kaïn een stad    | 400  | 🔁     |
-| De ideale integratiespecialist | 050  | 🔁     |
-| Bowling Alone                  | 400  | 🔁     |
-| Maven Maker                    | 200  | 🔁     |
-| Webhook Noterik                | 200  | 🔁     |
-| r > g                          | 300  | 🔁     |
+| onderwerpen                                                                                | code | status |
+| ------------------------------------------------------------------------------------------ | ---- | ------ |
+| Het Lindy effect                                                                           | 400  | 🔁     |
+| Neuroplasticiteit en gamen                                                                 | 300  | 🔁     |
+| Waarom bouwde Kaïn een stad                                                                | 400  | 🔁     |
+| De ideale integratiespecialist                                                             | 050  | 🔁     |
+| Bowling Alone                                                                              | 400  | 🔁     |
+| Maven Maker                                                                                | 200  | 🔁     |
+| Webhook Noterik                                                                            | 200  | 🔁     |
+| r > g                                                                                      | 300  | 🔁     |
+| [The cloud is over-engineered and overpriced](https://www.youtube.com/watch?v=Cd9aRtwj9xA) | 300  | 🔁     |
+| Midlancing                                                                                 | 300  | 🔁     |
 
 ###### legenda:
-- 🔁 in progress
+- 🔁 work in progress
 - ❌ niet doorgegaan
 - ✅ gedaan
