@@ -76,19 +76,6 @@ Voor mij is het **geen** vereiste om in de zorg te blijven werken. Maar ik zou n
 Het werken in de publiekelijke sector ligt mij beter, want momenteel heb ik geen product of dienst te bieden (naast mijn tijd en expertise). Dus is een gemeente, belastingdienst of #rijksoverheid een hele goede fit voor mij.
 
 ---
-# Wat heb ik te bieden voor mijn team
-Dit is wat ik mee neem uit mijn werkervaring:
-- Ik heb praktische ervaring op het gebied van een complex IT-landschap.
-	- Het leren, begrijpen en communiceren van dit soort infrastructuren zit ik ook in het pakket.
-- Ik ben zelfsturend.
-	- Ik kom niet alleen met problemen, maar met voorstellen van een oplossing.
-- Ik bezit goede communicatieve vaardigheden.
-	- Ik weet wie de belanghebbende zijn en hou die geïnformeerd met relevante ontwikkelingen.
-- Probleemoplossend vermogen.
-	- Geleerd on the job, maar ook in mijn hobby projecten zoals deze website.
-- Het werken in teamverband gaat mij goed af.
-
----
 # Hoe je het meest uit mij kan halen
 Hoe ik mijn carrière inbeeld is gebaseerd op:
 - Waar ik van nature goed in ben. -> 
@@ -96,7 +83,7 @@ Hoe ik mijn carrière inbeeld is gebaseerd op:
 	- Het achterhalen van de vraag achter de vraag en daarin mee te denken.
 - Wie ik help met mijn talenten. ->
 	- Ik vind burgerschap belangrijk.
-	- Ik haal voldoening uit mijn bijdrage aan het hebben van een positieve impact  op de maatschappij.
+	- Ik haal voldoening uit mijn bijdrage aan het hebben van een positieve impact op de maatschappij.
 - Met wat voor mensen ik zou willen werken. ->
 	- Mijn collega's hebben hun hart en ziel nog.
 - Hoe het bedrijf diens medewerkers behandelt. -> 
