@@ -16,8 +16,8 @@ date: 2024-04-17
 >Alhoewel ik geen universitaire studie heb genoten, wil ik doormiddel van rijke praktische ervaringen dichter tot dit punt komen. Niet in titel alleen, maar ook in daadkracht.
 >
 >Wat ik niet haal uit mijn werkervaring, haal ik uit mijn zelfstudie. \
->Wat ik niet haal uit zelfstudie, haal ik uit het leven.
-# Wat zijn mijn carrière doelen in grote lijnen
+>Wat ik niet haal uit mijn zelfstudie, haal ik uit het leven.
+# Mijn carrière doelen in grote lijnen
 De opleiding waar ik op zat leerde mij hoe je applicaties kon ontwikkelen. Dat deed ik op het MBO(-4), waarin we werden opgeleid om webapps te bouwen. Het was toen een nieuw curriculum dus was het best substantieel. Waarschijnlijk om te meten wat het limiet was van scholieren toen.
 
 >[!tldr]- Denk dan aan alle omvattende zaken die je erbij leert:
@@ -29,13 +29,13 @@ De opleiding waar ik op zat leerde mij hoe je applicaties kon ontwikkelen. Dat d
 >- Documentatie: Functioneel Ontwerp, Technisch Ontwerp, Programma van Eisen
 >- Wireframing: Balsamiq, [LucidChart](https://www.lucidchart.com/pages/nl)
 >- IDE's: VS code, IntelliJ
->- Cybersecurity (Dit was mijn keuze vak toen): OWASP, Kali Linux, Wireshark, SQL Injectie
+>- Cybersecurity (Mijn keuzevak): OWASP, Kali Linux, Wireshark, SQL Injectie, Encryptie, SSH, VM's, CTF's.
 
-Om mij zo breed mogelijk te oriënteren, deed ik ook een extra curriculaire project dat betrekking had tot technische automatisering. Dat ging via de Arduino en diens IDE (en taal, een soort C++), uiteindelijk overgestapt op VS Code met de Platform-IO plugin.
+Om mij zo breed mogelijk te oriënteren, deed ik ook een extra curriculaire project dat betrekking had tot technische automatisering. Dat ging via de Arduino en diens IDE (en programmeertaal, een soort C++), uiteindelijk overgestapt op VS Code met de Platform-IO plugin.
 
 Echter zie ik mijzelf geen applicaties (from scratch) bouwen buiten mijn passie projecten. De reden hiervoor is dat ik voldoening haal uit het bezitten van wat ik heb gebouwd en daar ook volledige regie over wil behouden. 
 
-Ik geloof dat er voor mij een lange adem zit in het beheren/bouwen van de connecties tussen applicaties. Dan dat ik werk **aan** applicaties an sig.
+Ik geloof dat er voor mij een lange adem zit in het beheren/bouwen van de connecties tussen applicaties. Dan dat ik werk **aan** applicaties an sig. Alhoewel er voor alles een uitzondering is.
 
 >[!info]- Uit praktische ervaring leerde ik voldoening te halen uit.
 >- Het integreren van een webhook voor het CRM-systeem van [qandr](https://www.qandr.eu/nl).
@@ -49,7 +49,7 @@ Dus als ik naar mezelf zou kijken geloof ik dat functies zoals hieronder genoemd
 - #infrastructuur-specialist
 
 ---
-# Wat voor werk doe ik nu en waarom
+# Wat doe ik nu en waarom
 
 > [!info]- Een korte retrospectief
 > Na een extensieve [[300 Kennis/Levenslessen/Je bent geen loser als je achter loopt|oriëntatieperiode]], heb ik besloten om ICT mijn vakgebied te maken. Hoe dat tot stand kwam is doordat ik ben opgegroeid in een tijd waar de digitale revolutie tot diens climax kwam op meerdere gebieden denk dan aan:
@@ -61,7 +61,7 @@ Dus als ik naar mezelf zou kijken geloof ik dat functies zoals hieronder genoemd
 > 
 > Dus toen ik erachter kwam dat men hiervan diens beroep kon maken besloot ik hier wat mee te doen.
 
-De hoofdreden voor mijn besluit om te werken bij het #AmsterdamUMC lag hem in de passie dat ik wat terug wil doen voor de organisatie. Zelf ben ik op jonge leeftijd gediagnosticeerd met sikkelcelanemie.
+De hoofdreden voor mijn besluit om te werken bij het [[home|Amsterdam UMC]] lag hem in de passie dat ik wat terug wil doen voor deze organisatie. Zelf ben ik op jonge leeftijd gediagnosticeerd met [[https://en.wikipedia.org/wiki/Sickle_cell_disease|sikkelcelanemie]].
 
 Dit is ***de*** organisatie die heeft bijgedragen aan onderzoeken en ondersteuning voor mijn persoonlijke leertraject in het omgaan met deze aandoening.
 
@@ -69,11 +69,11 @@ Dus toen ik de kans kreeg om via [The New Crew](https://www.thenewcrew.nl/) mijn
 
 ---
 # Waar zou ik later werken?
-Voor nu bevalt mijn functie bij het Amsterdam UMC mij wel. Ik heb nog genoeg te ontdekken en te leren, dus zodra ik dat heb gedaan (voor mijn gevoel) zal ik mij oriënteren. 
+Voor nu bevalt mijn functie bij het #AmsterdamUMC mij wel. Ik heb nog genoeg te ontdekken en te leren, dus zodra ik dat heb gedaan (voor mijn gevoel) zal ik mij oriënteren. 
 
-Voor mij is het **geen** vereiste om in de zorg te blijven werken. Maar ik zou niet zo snel bij een commerciële partij aan de gang gaan. De private sector is voor mijn beleving eerder plaats waarin ik zou willen concurreren met mijn eigen product/dienst.  
+Voor mij is het **geen** vereiste om in de zorg te blijven werken. Maar ik zou niet zo snel bij een commerciële partij aan de gang gaan. De private sector is voor mijn beleving eerder een plaats waarin ik zou willen concurreren met mijn eigen product/dienst.  
 
-Het werken in de publiekelijke sector ligt mij beter, want momenteel heb ik geen product of dienst te bieden (naast mijn tijd en expertise). Dus is een gemeente, belastingdienst of #rijksoverheid een hele goede fit voor mij.
+Het werken in de publiekelijke sector ligt mij beter, want momenteel heb ik geen product of dienst te bieden (naast mijn tijd en expertise). Dus is een #gemeente,  de #belastingdienst of #rijksoverheid een hele goede fit voor mij.
 
 ---
 # Hoe je het meest uit mij kan halen

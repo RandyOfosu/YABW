@@ -20,3 +20,26 @@ date: 2024-04-13
 Haar enthousiasme is aanstekelijk
 Haar zorgzaamheid is verwarmend
 Haar aanmoedigingen geven mij energie
+
+### Blogposts
+
+| onderwerpen                                                                                | code | status |
+| ------------------------------------------------------------------------------------------ | ---- | ------ |
+| Het Lindy effect                                                                           | 400  | 🔁     |
+| Neuroplasticiteit en gamen                                                                 | 300  | 🔁     |
+| Waarom bouwde Kaïn een stad                                                                | 400  | 🔁     |
+| De ideale integratiespecialist                                                             | 050  | 🔁     |
+| Bowling Alone                                                                              | 400  | 🔁     |
+| Maven Maker                                                                                | 200  | 🔁     |
+| Webhook Noterik                                                                            | 200  | 🔁     |
+| r > g                                                                                      | 300  | 🔁     |
+| [The cloud is over-engineered and overpriced](https://www.youtube.com/watch?v=Cd9aRtwj9xA) | 300  | 🔁     |
+| Midlancing                                                                                 | 300  | 🔁     |
+
+### Artikelen
+Een lijst met interessante artikelen.
+
+| Naam                                                                    | Auteur    |
+| ----------------------------------------------------------------------- | --------- |
+| [The Egg](https://www.galactanet.com/oneoff/theegg_nl.html)             | Andy Weir |
+| [Locality of Behaviour](https://htmx.org/essays/locality-of-behaviour/) |           |

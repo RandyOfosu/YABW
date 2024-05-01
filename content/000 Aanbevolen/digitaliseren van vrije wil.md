@@ -19,8 +19,9 @@ In juni 2022 werd Blake Lemoine ontslagen. Blake werkte op de Responsible-AI afd
 > [!info]- Voor meer info hierover heb je het [Tweakers artikel](https://tweakers.net/nieuws/199306/google-ontslaat-engineer-die-claimde-dat-lamda-zelfbewust-was-geworden.html).
 > "Deze kwestie begon in juni en draait om LaMDA, een taal- of conversatiemodel dat is getraind met aanzienlijke hoeveelheden tekst. LaMDA schreef daarin onder meer dat het zichzelf zag als een persoon en dezelfde rechten wilde hebben als andere Google-medewerkers."<br>
 
-We zijn al best lang bezig met het uitzoeken of computers ooit hun vrije wil kunnen behalen als we die genoeg kennis zouden geven. Vanwege de advent van de vermeende _#technologische-singulariteit_ worden deze gedachte experimenten constant opnieuw onder de loop genomen. Er is een hele filosofische stroming betreffend AI vol met controversiële beweringen en experimenten.  
+We zijn al best lang bezig met het uitzoeken of computers ooit hun vrije wil kunnen behalen als we die genoeg kennis zouden geven. Vanwege de advent van de vermeende _#technologische-singulariteit_ worden deze gedachte experimenten constant onder de loop genomen. Er is een hele filosofische stroming betreffend AI vol met controversiële beweringen en experimenten.  
 
+Dit artikel doet een oppervlakkige kijk naar de gedachte experimenten en deelt hierin waarom het niet zo gek is wat Blake meemaakte.
 ![image](iStock-1206796363.jpg)
 
 ---

@@ -8,19 +8,19 @@ tags:
 draft: false
 date: 2024-04-14
 ---
-De paradox van de zelf is het volgende:
+>[!tldr]- De paradox van de zelf.
 > Hoewel we intuïtief weten dat er een "ik" is, kunnen we dat niet bewijzen zonder te verwijzen naar diezelfde "ik".
-
-Volgens de Bhudda is de “ik” een leegte dat constant **tegelijk** geleegd en gevuld wordt met het algehele¹. Het algehele is in constante verandering.
-
-Hier komt het volgende argument uit voort: De “ik” is altijd slechts een momentopname van wat een individu kan waarnemen. Dus is de potentie oneindig net het universum maar wordt het gekaderd door wat je kan of wil opnemen van deze bron. Hierom is het ook absurd om jezelf vast te klampen aan een gekozen identiteit, mening, argument, observatie, etc, omdat het net als het algehele vatbaar is voor de constante veranderingen.
-
-<sub>Footnote¹: Als ik een woord gebruik zoals “de wereld”, “het universum”, “het heelal” zou dat beperkend werken omdat je het “alles” mentaal zou kaderen tot wat jij zou kunnen waarnemen als 1 van die woorden.</sub>
+> 
+> Volgens de Bhudda is de “ik” een leegte dat constant **tegelijk** geleegd en gevuld wordt met het algehele¹. Het algehele is in constante verandering.
+> 
+> Hier komt het volgende argument uit voort: De “ik” is altijd slechts een momentopname van wat een individu kan waarnemen. Dus is de potentie oneindig net het universum maar wordt het gekaderd door wat je kan of wil opnemen uit deze bron. Hierom zou het dan absurd zijn om jezelf vast te klampen aan een gekozen identiteit, mening, argument, observatie, etc, omdat het net als het algehele vatbaar is voor de constante veranderingen.
+> 
+> <sub>Footnote¹: Als ik een woord gebruik zoals “de wereld”, “het universum”, “het heelal” zou dat beperkend werken omdat je het “alles” mentaal zou kaderen tot wat jij zou kunnen waarnemen als 1 van die woorden.</sub>
 # De parabel der blinden
 
 Tot zo ver is dit het gegeven dat ik accepteer van wat een bewustzijn is en waar de "ik" ligt. 
 
-Ik heb dit nooit hardop gezegd tegen anderen omdat ik weet dat alles wat niet gegrond is in materie wordt verstoten met het argument van: "Wat ik niet kan zien, bestaat niet." Terwijl ik het idee had dat het algemeen bekend is dat als we 100% uit gaan van onze zicht dat we een groter risico lopen op misleiding. 
+Ik heb dit nooit hardop gezegd tegen anderen omdat ik weet dat alles wat niet gegrond is in materie wordt verstoten met het argument van: "Wat ik niet kan zien, bestaat niet." (of het omgekeerde, superzweverig) Terwijl ik het idee had dat het algemeen bekend is dat als we 100% uit gaan van onze zicht dat we een groter risico lopen op misleiding. 
 
 Denk dan bijvoorbeeld aan hoe goochelaars en optische illusies onze zicht exploiteren. 
 
@@ -33,7 +33,9 @@ Het zit hem niet (volledig) in de neuro-, filosofische-, cognitieve wetenschappe
 ---
 ## Het zwarte scherm
 
-De "ik" is een mysterie en wonder anzich. Dus is het net een vlam voor de motten van de wetenschap. Mensen bouwen hun weg altijd uit lastige casussen. In het geval van tech denkt men een "ik" te kunnen creëren. Het ontwikkelen van applicaties in de IT is een vreemde ervaring want je stapt in de rol van "de Maker". Men kan hele mooie dingen bouwen en visies worden gerealiseerd, maar elke vorm van macht raakt bederfelijk. In de rol van de Maker **moet** een programmeur zich voorzichtig navigeren rond alle valkuilen van arrogantie². 
+De "ik" is een mysterie en wonder an sig. Dus is het net een vlam voor de motten van de wetenschap. Mensen bouwen hun weg altijd uit lastige casussen. In het geval van tech denkt men een "ik" te kunnen creëren. Stop genoeg gebruikersinformatie in een (of meerdere) systeem, weet dat snel genoeg op te halen en je hebt dan een digitale "ik", denkt men.
+
+Het ontwikkelen van applicaties in de IT is een vreemde ervaring want je stapt in de rol van "de Maker". Men kan hele mooie dingen bouwen en visies worden gerealiseerd, maar elke vorm van macht raakt bederfelijk. In de rol van de Maker **moet** een programmeur zich voorzichtig navigeren rond alle valkuilen van arrogantie². 
 
 In tegenstelling tot wat veel mensen denken, ligt het programmeren van een applicatie niet in logica, maar in creativiteit. We willen zoveel mogelijk van onszelf terug zien in hetgeen wat wij bouwen.
 
@@ -41,7 +43,7 @@ In tegenstelling tot wat veel mensen denken, ligt het programmeren van een appli
 
 > Maar wanneer je staart naar het zwarte scherm, staart het terug.
 
-<sub>Footnote²: Wij vonden het fascinerend toen de schaakkampioen Garry Kasparov in 1997 werd verslagen door een computer. Maar zullen wij net zo reageren als een robot een bokskampioen met de statuut van Mike Tyson (in zijn prime) in bescheiding zou brengen?</sub>
+<sub>Footnote²: Wij vonden het fascinerend toen de schaakkampioen Garry Kasparov in 1997 werd verslagen door een computer. Maar zullen wij net zo reageren als een Boston Dynamics robot een bokskampioen met de statuut van Mike Tyson (in zijn prime) in verlegenheid zou brengen?</sub>
 
 ---
 # Henry Markram
@@ -66,7 +68,7 @@ Henry heeft dat aangekondigd in 2009 en wilde het realiseren in 10 jaar tijd.
 ---
 ## The Blue Brain Project
 
-Vroeger kon je het brein (en andere organen) op 2 manieren observeren. Je hebt *#In-Vivo* het observeren van een levend subject of *#In-Vitro* dan observeer je een stuk (hersen of lichaams)weefsel dat in leven wordt gehouden in een reageerbuis. De Blue Brain Project wilt een 3e mogelijkheid bieden en dat is doormiddel van een digitale simulatie en die dan te behandelen naar biologische werkelijkheid, in Silico.
+Vroeger kon je het brein (en andere organen) op 2 manieren observeren. Je hebt *In-Vivo* het observeren van een levend subject of *In-Vitro* dan observeer je een stuk (hersen of lichaams)weefsel dat in leven wordt gehouden in een reageerbuis. De Blue Brain Project wilt een 3e mogelijkheid bieden en dat is doormiddel van een digitale simulatie en die dan te behandelen naar biologische werkelijkheid, in Silico.
 
 > [!tip] Je kon.. er een [2Doc](https://www.2doc.nl/documentaires/2022/04/in-silico.html) van zien op NPO.
 

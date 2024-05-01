@@ -1,10 +1,10 @@
 ---
-title: Functieomschrijving
+title: IT Functieomschrijvingen
 description: Hoe ik dat zou aanvliegen
 aliases: 
 tags:
   - showerthoughts
-draft: false
+draft: true
 date: 2024-04-27
 ---
 > [!tldr]- In het kort

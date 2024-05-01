@@ -15,11 +15,9 @@ date: 2024-04-28
 >
 >Nooit meer zeg je dan.
 
-# 2024
-
 | Naam                                                                                     | Functie                                                                     | Projectie |
 | ---------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- | --------- |
-| Blogsite                                                                                 | Mijn eigen plek op het internet.                                            | Q2        |
-| Projectmanagement webapp                                                                 | Het bijhouden, inzichtelijk houden en delen van mijn projecten op het werk. | Q3        |
-| CRM webapp                                                                               | Portfolioproject                                                            | Q4        |
-| [The Cloud Resume Challenge](https://cloudresumechallenge.dev/docs/the-challenge/azure/) | Portfolioproject                                                            | Q3        |
+| Blogsite                                                                                 | Mijn eigen plek op het internet.                                            | Q2 2024   |
+| CRM web-app                                                                              | Portfolioproject                                                            | Q2 2025   |
+| Projectmanagement web-app                                                                | Het bijhouden, inzichtelijk houden en delen van mijn projecten op het werk. | Q4 2024   |
+| [The Cloud Resume Challenge](https://cloudresumechallenge.dev/docs/the-challenge/azure/) | Portfolioproject                                                            | Q4 2024   |

@@ -1,5 +1,5 @@
 ---
-title: Recreatie doelen
+title: 💆🏾‍♂️ Rust & Recreatie
 description: beschrijving
 aliases: 
 tags: 
