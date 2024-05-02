@@ -67,7 +67,7 @@ Deze website wordt ***groot*** dus hier een aantal tips voor het navigeren ervan
 ---
 > [!faq] Hoe kom ik het snelst met jou in contact?
 > Over het algemeen reageer ik best snel.
-> >Je krijgt mij het snelst te pakken op mijn emailadres: randysemicolon@gmail.com of <a href="https://linkedin.com/in/randyofosu" target="_blank">LinkedIn</a>. 
+> >Je krijgt mij het snelst te pakken op mijn emailadres:<a href="https://linkedin.com/in/randyofosu" target="_blank">LinkedIn</a>. 
 ---
 
 > [!info] Mijn socials
