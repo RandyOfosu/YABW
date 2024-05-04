@@ -8,9 +8,13 @@ tags:
 draft: false
 date: 2024-04-17
 ---
+>[!warning] Momenteel zit ik op mijn plek bij het [[home|Amsterdam UMC]] als integratiespecialist.
+>Dus ben ik **niet** actief op zoek naar een nieuwe functie of andere uitdagingen.
+
+
 <img src="northernstar.jpg" style="width: 60%; border-radius: 5%; display: block; margin-left: auto; margin-right: auto;">
 
->[!info]- Mijn Noord-ster is het zijn van een Software-ingenieur.
+>[!tldr]- Mijn Noord-ster is het zijn van een Software-ingenieur.
 >Dit is een **levenslange** opgave. Hierom is het imperatief dat ik mezelf niet kader tot één functie. Een software-ingenieur kan (bijvoorbeeld) een IT-consultant zijn maar niet andersom (met alle respect). Dikwijls kan ervaring als IT-consultant je opbouwen naar een competente software-ingenieur.
 >
 >Alhoewel ik geen universitaire studie heb genoten, wil ik doormiddel van rijke praktische ervaringen dichter tot dit punt komen. Niet in titel alleen, maar ook in daadkracht.
