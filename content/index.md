@@ -16,7 +16,7 @@ Graag wil ik je welkom heten op mijn blog. Wat je hier vindt zijn dingen die mij
 ---
 ## Wat doen al die hashtags?
 Deze hele website bestaat uit notities die ik maak in mijn notitieblok. \
-Dit is allemaal mogelijk met een combinatie van html/css, Obsidian, Quartz (zelf gebruik ik versie 4.2.3) en een beetje liefde. Deze notities zijn aan elkaar gekoppeld net als hoe jij met jouw brein ook werkt met #connecties. 
+Dit is allemaal mogelijk met een combinatie van html/css, Obsidian, Quartz (zelf gebruik ik versie 4.2.3) en een beetje liefde. Deze notities zijn aan elkaar gekoppelt net als hoe jij met jouw brein ook werkt met #connecties. 
 
 ```mermaid
 mindmap
@@ -30,7 +30,7 @@ mindmap
 
 De connecties die wij maken hebben biologische gevolgen. Want hoe meer (en sterker de) connecties ons brein heeft, hoe groter de grijze massa. Deze worden dan weergegeven als constellaties in de #grafiekweergave .
 
-> *Deze hele blog is slechts poging tot een digitale manifestatie van mijn eigen grijze massa.*
+> *Deze hele blog is slechts een poging tot een digitale manifestatie van mijn eigen grijze massa.*
 
 ```mermaid
 mindmap
@@ -67,7 +67,7 @@ Deze website wordt ***groot*** dus hier een aantal tips voor het navigeren ervan
 ---
 > [!faq] Hoe kom ik het snelst met jou in contact?
 > Over het algemeen reageer ik best snel.
-> >Je krijgt mij het snelst te pakken op mijn emailadres:<a href="https://linkedin.com/in/randyofosu" target="_blank">LinkedIn</a>. 
+> >Je krijgt mij het snelst te pakken op mijn: <a href="https://linkedin.com/in/randyofosu" target="_blank">LinkedIn</a>. 
 ---
 
 > [!info] Mijn socials
@@ -83,4 +83,4 @@ Deze website wordt ***groot*** dus hier een aantal tips voor het navigeren ervan
 ---
 ### Tot slot
 
-Veel browse plezier en wees niet verlegen.mindmap
+Veel browse plezier en wees niet verlegen.

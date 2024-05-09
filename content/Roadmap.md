@@ -22,7 +22,7 @@ date: 2024-04-14
 | wikipedia artikelen verwijzingen    | Plugin implementatie. (on hover een wiki-pagina lezen.)                                              | 🔁     |
 | mijn logo bewerken en implementeren | Soap contacteren.                                                                                    | 🔁     |
 | links op een nieuwe tab openen      | in html gebruik je target="_blank", wordt even documentatie nalezen voor obsidian.                   | ✅      |
-| Root navigatie                      | Het mogelijk maken voor mobiele gebruikers om alle pagina's te kunnen vinden, met 1 druk op de knop. | 🔁     |
+| Root navigatie                      | Het mogelijk maken voor mobiele gebruikers om alle pagina's te kunnen vinden, met 1 druk op de knop. | ✅      |
 ###### legenda:
 - 🔁 work in progress
 - ❌ niet doorgegaan
