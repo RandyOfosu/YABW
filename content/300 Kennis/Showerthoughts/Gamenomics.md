@@ -6,11 +6,10 @@ tags:
 draft: true
 date: 2024-05-07
 ---
-343 industries - 122.7M per jaar https://growjo.com/company/343_Industries 
-Electronic Arts - Publicly traded, 7 miljard
-Bethesda - 145.7M per jaar https://growjo.com/company/Bethesda_Game_Studios
-Ubisoft - 98.2M per jaar https://growjo.com/company/Ubisoft
-Activision Blizzard - 9.1 Miljard per jaar https://growjo.com/company/Activision_Blizzard
+Don't overdeliver, overpromise.
+
+- Release announcements en hoe die effect hebben op games die nog niet af zijn.
+- Vroeger kwamen games gewoon uit.
 
 - Wat is het probleem en waarom moet het mij boeien.
 	Games worden geplukt van hun verdienmodellen, technologie en originaliteit (vanuit perspectief consument)
