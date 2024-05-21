@@ -73,9 +73,7 @@ Dus toen ik de kans kreeg om via [The New Crew](https://www.thenewcrew.nl/) mijn
 
 ---
 # Waar zou ik later werken?
-Voor nu bevalt mijn functie bij het #AmsterdamUMC mij wel. Ik heb nog genoeg te ontdekken en te leren, dus zodra ik dat heb gedaan (voor mijn gevoel) zal ik mij oriënteren. 
-
-Voor mij is het **geen** vereiste om in de zorg te blijven werken. Maar ik zou niet zo snel bij een commerciële partij aan de gang gaan. De private sector is voor mijn beleving eerder een plaats waarin ik zou willen concurreren met mijn eigen product/dienst.  
+Voor mij is het **geen** vereiste om in de zorg te blijven werken. Maar ik zou niet zo snel bij een commerciële partij aan de gang gaan. De private sector is voor mijn beleving eerder een plaats waarin ik zelf zou willen concurreren met mijn eigen product/dienst.  
 
 Het werken in de publiekelijke sector ligt mij beter, want momenteel heb ik geen product of dienst te bieden (naast mijn tijd en expertise). Dus is een #gemeente,  de #belastingdienst of #rijksoverheid een hele goede fit voor mij.
 
