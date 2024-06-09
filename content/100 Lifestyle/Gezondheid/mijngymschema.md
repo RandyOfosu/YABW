@@ -18,7 +18,6 @@ Chest Day #1 Chest + Triceps
 - BenchPress
 - Incline Dumbbell press
 - Cross-over Fly's
-=======================
 - Cable Pulldown
 - Overhead Pulls
 
@@ -27,7 +26,6 @@ Chest Day #2 Chest + Shoulders
 - Barbell ShoulderPress
 - Incline BenchPress
 - Dumbbell press
-=======================
 - Arnold Press
 - Front Raise
 
@@ -37,7 +35,6 @@ Leg Day #1 Legs + Legs(backside)
 - Squats
 - Leg Extensions
 - Leg lunges
-======================
 - Calve Raises
 
 Leg Day #2 Legs + Calves
@@ -45,7 +42,6 @@ Leg Day #2 Legs + Calves
 - RDL
 - Leg curls
 - Bulgarian split squats
-======================
 - Leg Press
 - Calve Raises
 
@@ -55,7 +51,6 @@ Back Day #1 Back + Shoulder
 - Barbell Rows
 - Seated Rows
 - Lateral Raises
-========================
 - Dumbbell Row
 - Dumbbell Flys (Reverse)
 
@@ -64,7 +59,6 @@ Back Day #2 Back + Biceps
 - Deadlift
 - Lat Pulldowns Wide
 - Lat Pulldowns Close
-========================
 - Hammer Curls
 - Dumbbell Curls
 
@@ -100,5 +94,4 @@ Back Day #2 Back + Biceps
 5-8 rep range
 3 Sets
 
-Zondag:
-- Rust: Plan & Reflecteer. 
+Zondag: Rust: Plan & Reflecteer. 
