@@ -7,7 +7,7 @@ tags:
 draft: false
 date: 2024-05-24
 ---
-Dit is een roadmap in het worden van een #Blockchain developer anno 2024. 
+Dit is een roadmap in het worden van een #blockchain developer anno 2024. 
 
 Dit is wat we gaan leren:
 - Waar liggen de kansen.

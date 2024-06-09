@@ -14,7 +14,7 @@ date: 2024-04-17
 >[!tldr]- in het kort
 >Het consistent niet kunnen vervullen van onze ***eigen*** doelen, leidt tot de perversie van ons leven.
 
-The Power Process is een gedachtegoed van Theodore Kaczynski dat wordt beschreven in paragraaf 33 tot 37 van de Unabomber Manifesto . De paragrafen die waar ik naar refereer poogt de inherente psychologische drijfveren te beschrijven van een individu. Maar vooral wat er gebeurt als persoonlijke vervulling **niet** wordt behaald.
+The Power Process is een gedachtegoed van Theodore Kaczynski dat wordt beschreven in paragraaf 33 tot 37 van de Unabomber Manifesto . De paragrafen waar ik naar refereer poogt de inherente psychologische drijfveren te beschrijven van een individu. Vooral wat er gebeurt als persoonlijke vervulling **niet** wordt behaald.
 
 >[!info]- een uittreksel van de manifesto.
 >33. Human beings have a need (probably based in biology) for something that we will call the “power process.” This is closely related to the need for power (which is widely recognized) but is not quite the same thing. The power process has four elements. ==The three most clear-cut of these we call goal, effort and attainment of goal==. (Everyone needs to have goals whose attainment requires effort, and needs to succeed in attaining at least some of his goals.) ==The fourth element is== more difficult to define and may not be necessary for everyone. We call it ==autonomy== and will discuss it later (paragraphs 42–44).
