@@ -66,32 +66,20 @@ Back Day #2 Back + Biceps
 
 Maandag:
 Chest Day #1 Chest + Triceps
-5-8 rep range
-3 Sets 
 
 Dinsdag:
 Leg Day #1 Legs + Legs(backside)
-5-8 rep range
-3 Sets
 
 Woensdag:
 Back Day #1 Back + Shoulder
-5-8 rep range
-3 Sets
 
 Donderdag:
 Chest Day #2 Chest + Shoulders
-5-8 rep range
-3 Sets
 
 Vrijdag:
 Leg Day #2 Legs + Calves
-5-8 rep range
-3 Sets
 
 Zaterdag:
 Back Day #2 Back + Biceps
-5-8 rep range
-3 Sets
 
 Zondag: Rust: Plan & Reflecteer. 
