@@ -1,11 +1,33 @@
 ---
-title: 🏋🏾‍♀️ mijn gym schema
+title: 🏋🏾‍♀️ Mijn Gymschema
 description: beschrijving
 aliases: 
 tags: 
 draft: false
 date: 2024-06-09
 ---
+# Gymdagen Op basis van dagen
+
+~~Maandag:~~
+~~Chest Day #1 Chest + Triceps~~
+
+Dinsdag:
+Leg Day #1 Legs + Legs(backside)
+
+Woensdag:
+Back Day #1 Back + Shoulder
+
+Donderdag:
+Chest Day #2 Chest + Shoulders
+
+Vrijdag:
+Leg Day #2 Legs + Calves
+
+Zaterdag:
+Back Day #2 Back + Biceps
+
+Zondag: Rust: Plan & Reflecteer. 
+
 # Gym oefeningen
 Compound oefeningen die doe:
 - BenchPress
@@ -28,7 +50,6 @@ Chest Day #2 Chest + Shoulders
 - Dumbbell press
 - Arnold Press
 - Front Raise
-
 ## Leg Days
 Leg Day #1 Legs + Legs(backside)
 - Box Squats
@@ -61,25 +82,3 @@ Back Day #2 Back + Biceps
 - Lat Pulldowns Close
 - Hammer Curls
 - Dumbbell Curls
-
-# Gymdagen Op basis van dagen
-
-Maandag:
-Chest Day #1 Chest + Triceps
-
-Dinsdag:
-Leg Day #1 Legs + Legs(backside)
-
-Woensdag:
-Back Day #1 Back + Shoulder
-
-Donderdag:
-Chest Day #2 Chest + Shoulders
-
-Vrijdag:
-Leg Day #2 Legs + Calves
-
-Zaterdag:
-Back Day #2 Back + Biceps
-
-Zondag: Rust: Plan & Reflecteer. 
