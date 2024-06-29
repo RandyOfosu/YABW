@@ -8,8 +8,8 @@ date: 2024-06-09
 ---
 # Gymdagen Op basis van dagen
 
-~~Maandag:~~
-~~Chest Day #1 Chest + Triceps~~
+Maandag:
+Chest Day #1 Chest + Triceps
 
 Dinsdag:
 Leg Day #1 Legs + Legs(backside)
