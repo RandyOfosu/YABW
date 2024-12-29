@@ -4,7 +4,7 @@ description: beschrijving
 aliases: 
 tags:
   - aanbevolen
-draft: false
+draft: true
 date: 2024-05-24
 ---
 Dit is een roadmap in het worden van een #blockchain developer anno 2024. 
@@ -21,11 +21,11 @@ De Blockchain is inherent ge-(komt ie)-decentraliseert. De systemen die we nu he
 
 Een analogie die we hiervoor kunnen gebruiken is de 🥚🧺.
 
-We hebben nu al onze eieren in 1 mand. Dus als er iets naars gebeurt (en het zal gebeuren) is de impact = (risico x kans) substantieel. Dit noemen fenomeen noemen we in de Computer Science een Single Point of Failure (SPOF).
+We hebben nu al onze eieren in 1 mand. Dus als er iets naars gebeurt (en het zal gebeuren) is de impact = (risico x kans) substantieel. Dit fenomeen noemen we in de IT een Single Point of Failure (SPOF).
 
 ![[Single_Point_of_Failure.png| 500]]
 
-Wat als we meerdere mandjes hebben met slechts een paar eieren. Dan wordt de impact van ongelukkige omstandigheden ingeperkt. Wat we op onze beurt in Computer Science redundantie noemen.
+Wat als we meerdere mandjes hebben met slechts een paar eieren. Dan wordt de impact van ongelukkige omstandigheden ingeperkt. Wat we op onze beurt redundantie noemen.
 
 Dus in het kort:
 Alleen jij piept als jouw pinpas het niet doet door een barst in jouw NFC chip. Er piepen **heel wat** mensen als er een nationale pin storing is.

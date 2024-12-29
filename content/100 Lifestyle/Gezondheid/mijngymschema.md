@@ -3,7 +3,7 @@ title: 🏋🏾‍♀️ Mijn Gymschema
 description: beschrijving
 aliases: 
 tags: 
-draft: false
+draft: true
 date: 2024-06-09
 ---
 # Gymdagen Op basis van dagen

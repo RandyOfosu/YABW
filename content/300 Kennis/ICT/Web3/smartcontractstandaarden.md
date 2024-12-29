@@ -5,7 +5,7 @@ aliases:
 tags:
   - SmartContracts
   - NFT
-draft: false
+draft: true
 date: 2024-06-05
 ---
 Smart Contract Standaarden:

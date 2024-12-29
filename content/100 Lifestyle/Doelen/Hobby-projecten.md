@@ -3,7 +3,7 @@ title: 💡 Hobby-projecten
 description: beschrijving
 aliases: 
 tags: 
-draft: false
+draft: true
 date: 2024-04-28
 ---
 >[!tldr]- Vraag je nooit af wat had kunnen zijn.

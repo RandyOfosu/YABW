@@ -5,7 +5,7 @@ aliases:
 tags:
   - levenslessen
   - aanbevolen
-draft: false
+draft: true
 date: 2022-09-15
 ---
 Op maandag 5 september 2022 ben ik begonnen met de studie Software Engineering aan de Hoge School van Amsterdam. 

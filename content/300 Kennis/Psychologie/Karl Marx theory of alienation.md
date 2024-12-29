@@ -7,7 +7,7 @@ tags:
   - vervreemdingstheorie
   - sociologie
   - psychologie
-draft: false
+draft: true
 date: 2024-04-17
 ---
 > [!tldr]- In het kort
