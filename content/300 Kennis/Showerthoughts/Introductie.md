@@ -4,7 +4,7 @@ description: Wat zijn shower thoughts
 aliases: 
 tags:
   - showerthoughts
-draft: false
+draft: true
 date: 2024-04-14
 ---
 Een showerthought is een idee die in je opkomt terwijl je op autopiloot bent. Veel van mijn ideeën zijn geboren in de douch. Deze ideeën moet je vangen, want anders zijn ze voor altijd weg. Ik doe het vooral als het mij pauzeert in wat ik aan het doen ben. 

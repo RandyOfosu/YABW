@@ -5,7 +5,7 @@ aliases:
 tags:
   - rest
   - api
-draft: false
+draft: true
 date: 2024-06-06
 ---
 # API

@@ -6,7 +6,7 @@ tags:
   - aanbevolen
   - showerthoughts
   - In-Silico
-draft: false
+draft: true
 date: 2024-04-14
 ---
 De paradox van de zelf is het volgende:

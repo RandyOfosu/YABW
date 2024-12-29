@@ -8,7 +8,7 @@ tags:
   - aanbevolen
   - Functionalisme
   - Computationalisme
-draft: false
+draft: true
 date: 2022-08-27
 ---
 Wat als we de waarste leugen zouden meemaken, zou jij dat dan geloven?

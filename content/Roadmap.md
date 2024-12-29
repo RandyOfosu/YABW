@@ -4,7 +4,7 @@ description: Dingen die ik wil implementeren voor deze website.
 aliases: 
 tags:
   - roadmap
-draft: false
+draft: true
 date: 2024-04-14
 ---
 # 2024

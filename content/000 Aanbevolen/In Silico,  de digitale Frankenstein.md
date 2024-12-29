@@ -5,7 +5,7 @@ aliases:
 tags:
   - aanbevolen
   - showerthoughts
-draft: false
+draft: true
 date: 2024-04-14
 ---
 >[!tldr]- De paradox van de zelf.

@@ -6,6 +6,7 @@ cssclasses:
   - img-grid
   - cards
   - list-cards
+draft: true
 ---
 Ik ben begonnen met bloggen omdat het de snelste en handigste manier is voor mij om mezelf te uiten. Zoals je weet is het gratis (kan het gratis zijn) en houden wij Nederlanders van gratis. Tot slot is het herhalen van waardevolle advies en/of technieken het beste wat jij jezelf kan wensen.
 
