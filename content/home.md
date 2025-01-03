@@ -3,6 +3,7 @@ title: 🏡 Home
 cssclasses: []
 description: dit beschrijft mijn post
 draft: false
+date: 2024-04-14
 ---
 > [!info] Werkzaam als Integratiespecialist bij het [Amsterdam UMC](https://amsterdamumc.org/nl/organisatie/missie-visie-en-strategie.htm)
 > Als integratiespecialist ben ik bezig met het ontwerpen, ontwikkelen, vernieuwen, realiseren, documenteren en onderhouden van koppelingen tussen ICT-applicaties en databases.
